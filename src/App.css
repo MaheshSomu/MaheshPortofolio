@@ -1,6 +1,5 @@
-# Education Section Styles
-
 /* Education Section (matches card style) */
+.education-card {
 .education-card {
   background: var(--card-bg, #fff);
   border-radius: 12px;
