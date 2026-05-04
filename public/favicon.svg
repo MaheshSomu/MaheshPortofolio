@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-labelledby="title desc">
+  <title id="title">SMKB initials logo</title>
+  <desc id="desc">A clean circular monogram with the initials SMKB.</desc>
+  <defs>
+	<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+	  <stop offset="0%" stop-color="#0f172a" />
+	  <stop offset="100%" stop-color="#2563eb" />
+	</linearGradient>
+	<linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+	  <stop offset="0%" stop-color="#ffffff" stop-opacity="0.98" />
+	  <stop offset="100%" stop-color="#dbeafe" stop-opacity="0.96" />
+	</linearGradient>
+  </defs>
+  <circle cx="24" cy="24" r="22" fill="url(#bg)" />
+  <circle cx="24" cy="24" r="18.5" fill="none" stroke="rgba(255,255,255,0.18)" stroke-width="1" />
+  <text x="24" y="28" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="1.1" fill="url(#accent)">SMKB</text>
+</svg>
